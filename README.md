@@ -1,5 +1,5 @@
 # phpdtfrains-with-editor
-Program ini digunakan untuk membantu pemasangan PHP Framework atau upload file project web PHP dengan mudah. Program ini masih sederhana tapi berguna untuk kamu sebagai web programmer atau developer yang tahap belajar. Program ini diperuntukkan untuk hosting gratis. Tetapi, program ini dilengkapi dengan teks editor dan file manager yang bersumber dari https://github.com/prasathmani/tinyfilemanager dan telah dimodifikasi oleh author sendiri.
+Program ini digunakan untuk membantu pemasangan PHP Framework atau upload file project web PHP dengan mudah. Program ini masih sederhana tapi berguna untuk kamu sebagai web programmer atau developer yang tahap belajar. Program ini diperuntukkan untuk hosting gratis. Tetapi, program ini dilengkapi dengan teks editor dan file manager yang bersumber dari https://github.com/prasathmani/tinyfilemanager dan telah dimodifikasi oleh author sendiri. Jadi, program ini tidak menggunakan Control Panel yang memberatkan resource server / hosting.
 
 # Panduan Singkat dalam Penggunaan Situs Ini :
 1. Upload Project Website yang Ada.
@@ -17,8 +17,13 @@ b) Pindahkan project web yang telah diupload ke folder html_public, home/www, at
 Kamu tidak perlu melakukan extract project website lagi dalam upload project web atau pemasangan PHP Framework secara manual lagi. Kamu tinggal ngoding project web sambil ngopi saja.
 
 # Panduan dalam Menggunakan File Manager :
-1. Masukkan username : admin dan password : admin@123.
-2. Kerjakan project website dengan sesuka kamu.
+1. Kunjungi situs namadomain.com/phpdtfrains/editor.php atau namadomain.com/editor.php
+2. Masukkan username : admin dan password : admin@123.
+3. Kerjakan project website dengan sesuka kamu.
+
+Catatan :
+
+Jangan sekali-kali menghapus file manager editor.php dari project website kamu!
 
 # Panduan Pemasangan Aplikasi Ini ke dalam Hosting Gratis :
 1. Masuk ke Control Panel pada hosting gratis kamu</p>
