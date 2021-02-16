@@ -179,7 +179,7 @@ if(isset($_POST['proses'])){
   </form>
   
   <div class="card">
-  <form action="proses.php" method="post" enctype="multipart/form-data">
+  <form action="<?= $_SERVER['PHP_SELF']; ?>" method="post" enctype="multipart/form-data">
      <div class="card-body">
       <h5 class="card-title">Install PHP Framework&nbsp;</h5>
       <p class="card-text">Gunakan fitur ini untuk memasang project baru dengan menggunakan
@@ -214,9 +214,11 @@ if(isset($_POST['proses'])){
 <hr/>
 </div>
 <center id="howto"><h3>Panduan Menggunakan File Manager :</h3></center><br/>
+<div class="container">
 <p>1. Kunjungi situs http://namadomain.com/editor.php atau http://namadomain.com/phpfrains/editor.php (Git Clone).</p>
 <p>2. Masukkan username : admin dan password : admin@123.</p>
 <p>3. Kerjakan project website dengan sesuka kamu.</p>
+</div>
 <hr />
 <center><h3>Panduan Pemasangan Aplikasi Ini ke dalam Hosting Gratis :</h3></center><br/>
 <div class="container">
