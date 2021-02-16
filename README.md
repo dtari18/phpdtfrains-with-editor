@@ -17,7 +17,7 @@ b) Pindahkan project web yang telah diupload ke folder html_public, home/www, at
 Kamu tidak perlu melakukan extract project website lagi dalam upload project web atau pemasangan PHP Framework secara manual lagi. Kamu tinggal ngoding project web sambil ngopi saja.
 
 # Panduan dalam Menggunakan File Manager :
-1. Kunjungi situs namadomain.com/phpdtfrains/editor.php atau namadomain.com/editor.php
+1. Kunjungi situs http://namadomain.com/editor.php atau namadomain.com/phpdtfrains/editor.php (Git Clone).
 2. Masukkan username : admin dan password : admin@123.
 3. Kerjakan project website dengan sesuka kamu.
 
@@ -30,9 +30,8 @@ Jangan sekali-kali menghapus file manager editor.php dari project website kamu!
 2. Klik File Manager di Control Panel.
 3. Klik Folder "public_html" atau "www".
 4. Klik Upload di dalam folder tersebut.
-5. Pilihlah file "phpdtfrains.zip", klik Open atau OK
-6. Extract file .zip tersebut.
-7. Buka situs http://namadomain.com/phpdtfrains/index.php
+5. Pilihlah file "phpfrains.php", klik Open atau OK
+6. Buka situs http://namadomain.com/phpfrains.php
 
 Ada perbedaan step by step yang sedikit pada masing-masing hosting gratis.
 
